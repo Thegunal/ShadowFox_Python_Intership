@@ -15,24 +15,28 @@ This repo documents all beginner, intermediate, and advanced-level tasks I compl
 ---
 
 ## 🧩 Beginner Level Tasks (5/9)  
-- ✅ Variables → `variables.py`  
-- ✅ Numbers → `numbers.py`  
-- ✅ List Operations → `lists.py`  
-- ✅ Conditions (If-Else) → `conditions.py`  
-- ✅ Loops → `loops.py`  
+- ✅ Variables → [variables.py](Beginner_Tasks/variables.py)  
+- ✅ Numbers → [numbers.py](Beginner_Tasks/numbers.py)  
+- ✅ List Operations → [lists.py](Beginner_Tasks/lists.py)  
+- ✅ Conditions (If-Else) → [conditions.py](Beginner_Tasks/conditions.py)  
+- ✅ Loops → [loops.py](Beginner_Tasks/loops.py)  
 
 **Others (Optional):** Dictionary, File Handling, OOP, Inheritance  
+
+[📂 Browse all Beginner Tasks](Beginner_Tasks/)  
 
 ---
 
 ## ⚙️ Intermediate Tasks  
-- 🌐 Web Scraper using BeautifulSoup → `web_scraper.py`  
-- 🎮 Hangman Game with CLI interaction → `hangman_game.py`  
+- 🌐 Web Scraper using BeautifulSoup → [web_scraper.py](Intermediate_Tasks/web_scraper.py)  
+- 🎮 Hangman Game with CLI interaction → [hangman_game.py](Intermediate_Tasks/hangman_game.py)  
+
+[📂 Browse all Intermediate Tasks](Intermediate_Tasks/)  
 
 ---
 
 ## 📸 Proof of Work  
-All screenshots and optional video recordings are in the `Proof_of_Work/` folder.  
+All screenshots and optional video recordings are in the [Proof_of_Work/](Proof_of_Work/) folder.  
 LinkedIn posts available here → [Insert your post link]  
 
 ---
