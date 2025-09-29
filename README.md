@@ -15,23 +15,23 @@ This repo documents all beginner, intermediate, and advanced-level tasks I compl
 ---
 
 ## 🧩 Beginner Level Tasks (5/9)
-- ✅ Variables → [variables.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Beginner_Tasks/variables.py)
-- ✅ Numbers → [numbers.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Beginner_Tasks/numbers.py)
-- ✅ List Operations → [lists.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Beginner_Tasks/lists.py)
-- ✅ Conditions (If-Else) → [conditions.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Beginner_Tasks/conditions.py)
-- ✅ Loops → [loops.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Beginner_Tasks/loops.py)
+- ✅ Variables → [variables.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks/variables.py)
+- ✅ Numbers → [numbers.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks/numbers.py)
+- ✅ List Operations → [lists.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks/lists.py)
+- ✅ Conditions (If-Else) → [conditions.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks/conditions.py)
+- ✅ Loops → [loops.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks/loops.py)
 
 **Others (Optional):** Dictionary, File Handling, OOP, Inheritance
 
-[📂 Browse all Beginner Tasks](https://github.com/Thegunal/ShadowFox_Python_Intership/tree/main/ShadowFox_Python_Internship/Beginner_Tasks)
+[📂 Browse all Beginner Tasks](https://github.com/Thegunal/ShadowFox_Python_Intership/tree/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Beginner_Tasks)
 
 ---
 
 ## ⚙️ Intermediate Tasks
-- 🌐 Web Scraper using BeautifulSoup → [web_scraper.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Intermediate_Tasks/web_scraper.py)
-- 🎮 Hangman Game with CLI interaction → [hangman_game.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/main/ShadowFox_Python_Internship/Intermediate_Tasks/hangman_game.py)
+- 🌐 Web Scraper using BeautifulSoup → [web_scraper.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Intermediate_Tasks/web_scraper.py)
+- 🎮 Hangman Game with CLI interaction → [hangman_game.py](https://github.com/Thegunal/ShadowFox_Python_Intership/blob/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Intermediate_Tasks/hangman_game.py)
 
-[📂 Browse all Intermediate Tasks](https://github.com/Thegunal/ShadowFox_Python_Intership/tree/main/ShadowFox_Python_Internship/Intermediate_Tasks)
+[📂 Browse all Intermediate Tasks](https://github.com/Thegunal/ShadowFox_Python_Intership/tree/b7e1b282c7fa335ff67a9192cbb6e34749610bad/ShadowFox_Python_Internship/Intermediate_Tasks)
 
 ---
 
